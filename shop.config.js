@@ -20,8 +20,8 @@ export const FIREBASE_CONFIG = {
 /**
  * Shop Identity
  */
-export const SHOP_NAME = "Vikretha";          // Displayed in header and receipts
-export const SHOP_ID = "shop_001";           // Unique ID for Firestore path: /shops/{SHOP_ID}/
+export const SHOP_NAME = "FAB Stores";          // Displayed in header and receipts
+export const SHOP_ID = "fab_in_stores";           // Unique ID for Firestore path: /shops/{SHOP_ID}/
                                              // Use a URL-safe string (no spaces)
 
 /**
@@ -33,7 +33,7 @@ export const LOCALE = "en-IN";              // Locale for date/number formatting
 /**
  * WhatsApp
  */
-export const WHATSAPP_NUMBER = "";          // Your shop's WhatsApp number with country code
+export const WHATSAPP_NUMBER = "+919885699799";          // Your shop's WhatsApp number with country code
                                              // e.g., "+919876543210" — used for receipt sharing
 
 /**
