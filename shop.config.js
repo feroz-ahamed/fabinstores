@@ -9,12 +9,13 @@
  * Get these values from: Firebase Console → Project Settings → Your apps → Config
  */
 export const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCoCUb_y1EOaZ87rS6idIsCCwsFUdXIVAY",
-  authDomain: "vikretha-8978b.firebaseapp.com",
-  projectId: "vikretha-8978b",
-  storageBucket: "vikretha-8978b.firebasestorage.app",
-  messagingSenderId: "210720989974",
-  appId: "1:210720989974:web:fd3869cde378f5c6936637"
+  apiKey: "AIzaSyCfqmq87E7yYr1zz-iozCprW219vojerCs",
+  authDomain: "fabin-stores.firebaseapp.com",
+  projectId: "fabin-stores",
+  storageBucket: "fabin-stores.firebasestorage.app",
+  messagingSenderId: "436436042143",
+  appId: "1:436436042143:web:c746fd45137fbde172bdaa",
+  measurementId: "G-D5EZH9M3KW"
 };
 
 /**
